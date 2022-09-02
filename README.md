@@ -8,7 +8,7 @@
 #### ⚡ Fun facts:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamN&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AbrahamN&theme=darkhub&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AbrahamN&theme=darkhub&row=2&column=3&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbrahamN&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
