@@ -3,7 +3,7 @@
 #### 🔭 I’m currently working on growing my fundamentals
 #### 🌱 I’m currently learning ai, cloud, games and more
 #### 👯 I’m looking to collaborate on [PhillOS](https://github.com/abrahamn/PhillOS)
-#### 🤔 I’m looking for help with 
+#### 🤔 I’m looking for help with [PhillOS](https://github.com/abrahamn/PhillOS)
 #### 😄 Pronouns: He
 #### ⚡ Fun facts:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamN&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
