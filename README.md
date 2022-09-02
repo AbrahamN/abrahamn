@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**AbrahamN/abrahamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 I’m currently working on growing my fundamentals
+#### 🌱 I’m currently learning ai, cloud, games and more
+#### 👯 I’m looking to collaborate on [PhillOS](https://github.com/abrahamn/PhillOS)
+#### 🤔 I’m looking for help with 
+#### 😄 Pronouns: He
+#### ⚡ Fun facts:
+- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamN&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- [![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbrahamN&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbrahamN&theme=dark)](https://git.io/streak-stats)
+- [Favorite Repo](https://github-readme-stats.vercel.app/api/pin/?username=AbrahamN&repo=ml-agents)](https://github.com/abrahamn/ml-agents) --->
+- [Trophiesttps://github-profile-trophy.vercel.app/?username=AbrahamN&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
